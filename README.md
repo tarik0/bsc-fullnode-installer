@@ -1,3 +1,20 @@
+# RAID 0 Configuration for Hetzner.
+```
+- Rescue system in the admin panel;
+- Reboot your system;
+- Login back to your server then installimage;
+- Choose your desired OS and version;
+- In the next page, set SWRAIDLEVEL to 0
+- Change the hostname if you want;
+- F10 to save, YES, YES;
+- Wait the installation;
+- Reboot
+
+Boom, raid 0.
+(Credits: @lyk0z)
+```
+
+
 # Become Root
 ```
 sudo su
