@@ -11,7 +11,7 @@
 - Reboot
 
 Boom, raid 0.
-(Credits: @lyk0z)
+(Credits: lyk0z#6455)
 ```
 
 
